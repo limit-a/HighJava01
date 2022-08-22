@@ -54,6 +54,14 @@ public class ArrayListTest01 {
 		list2.add("DDDD");
 		list2.add("EEEE");
 		
+		list2.clear();
+		
+		list2.add("AAAA");
+		list2.add("BBBB");
+		list2.add("CCCC");
+		list2.add("DDDD");
+		list2.add("EEEE");
+		
 		
 		for(int i = 0; i < list2.size(); i++) {
 			System.out.println(i + "====>"+list2.get(i));
