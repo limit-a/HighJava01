@@ -11,6 +11,7 @@ import java.util.Scanner;
  * 
  *    문제2) 문제1에서 별명의 길이가 같은 것을 입력하는 조건으로 변경되었을 때 
  *   		 결과를 출력하시오.
+ *    하기 귀찮다.
  * 
  */
 public class ArrayListTest03 {
