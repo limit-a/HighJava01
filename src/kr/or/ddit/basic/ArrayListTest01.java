@@ -120,6 +120,7 @@ public class ArrayListTest01 {
 		for(int i = 0; i < strArr.length; i++) {
 			System.out.println(i + "번째 : " + strArr[i]);
 		}
+		System.out.println("hello world");
 		
 	}
 }
